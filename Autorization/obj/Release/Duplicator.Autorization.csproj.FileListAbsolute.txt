@@ -1,0 +1,14 @@
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\Autorization.exe.config
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\Autorization.exe
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\Autorization.pdb
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\BL.dll
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\Newtonsoft.Json.dll
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\BL.pdb
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\Newtonsoft.Json.pdb
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Release\Newtonsoft.Json.xml
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Release\Duplicator.Autorization.csprojResolveAssemblyReference.cache
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Release\Duplicator.Autorization.AutorizationForm.resources
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Release\Autorization.Properties.Resources.resources
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Release\Duplicator.Autorization.csproj.GenerateResource.Cache
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Release\Autorization.exe
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Release\Autorization.pdb

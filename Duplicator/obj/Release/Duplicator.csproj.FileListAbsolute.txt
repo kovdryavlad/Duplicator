@@ -1,0 +1,16 @@
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Duplicator.exe.config
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Duplicator.exe
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Duplicator.pdb
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Autorization.exe
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\BL.dll
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Newtonsoft.Json.dll
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Autorization.pdb
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\BL.pdb
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Newtonsoft.Json.pdb
+E:\c#\self_education\Vk\Duplicator\Duplicator\bin\Release\Newtonsoft.Json.xml
+E:\c#\self_education\Vk\Duplicator\Duplicator\obj\Release\Duplicator.csprojResolveAssemblyReference.cache
+E:\c#\self_education\Vk\Duplicator\Duplicator\obj\Release\Duplicator.MainForm.resources
+E:\c#\self_education\Vk\Duplicator\Duplicator\obj\Release\Duplicator.Properties.Resources.resources
+E:\c#\self_education\Vk\Duplicator\Duplicator\obj\Release\Duplicator.csproj.GenerateResource.Cache
+E:\c#\self_education\Vk\Duplicator\Duplicator\obj\Release\Duplicator.exe
+E:\c#\self_education\Vk\Duplicator\Duplicator\obj\Release\Duplicator.pdb

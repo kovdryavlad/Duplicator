@@ -1,0 +1,9 @@
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Debug\Autorization.exe.config
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Debug\Autorization.exe
+E:\c#\self_education\Vk\Duplicator\Autorization\bin\Debug\Autorization.pdb
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Debug\Autorization.csprojResolveAssemblyReference.cache
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Debug\Autorization.csproj.GenerateResource.Cache
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Debug\Autorization.exe
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Debug\Autorization.pdb
+E:\c#\self_education\Vk\Duplicator\Autorization\obj\Debug\Autorization.AutorizationForm.resources

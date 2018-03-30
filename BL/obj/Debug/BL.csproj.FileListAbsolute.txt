@@ -1,0 +1,5 @@
+E:\c#\self_education\Vk\Duplicator\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\c#\self_education\Vk\Duplicator\BL\bin\Debug\BL.dll
+E:\c#\self_education\Vk\Duplicator\BL\bin\Debug\BL.pdb
+E:\c#\self_education\Vk\Duplicator\BL\obj\Debug\BL.dll
+E:\c#\self_education\Vk\Duplicator\BL\obj\Debug\BL.pdb
